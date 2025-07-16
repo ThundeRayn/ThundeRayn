@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Shirong Tang
 ---
 ## About me
-a passionate Front-End Developer who loves crafting engaging and accessible web experiences. With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles, I enjoy turning complex problems into elegant, user-friendly interfaces.
+- passionate React Developer who loves crafting engaging and visually appealing web experiences.
+- With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles
+- enjoy turning complex problems into clean, user-friendly interfaces.
 
 ---
 
@@ -19,7 +21,7 @@ a passionate Front-End Developer who loves crafting engaging and accessible web 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 - **Others:**  
-  Performance optimization, accessibility (a11y), responsive design, component libraries (ShadCN/UI, Chakra, etc.)
+  Performance optimization, accessibility (a11y), responsive design, component libraries, etc
 
 ---
 
@@ -35,7 +37,7 @@ a passionate Front-End Developer who loves crafting engaging and accessible web 
 
 ## 🌱 Currently Learning
 
-- Web animations (Framer Motion)
+- Aiming on becoming a full stack developer
 - Performance & accessibility best practices
 
 ---
