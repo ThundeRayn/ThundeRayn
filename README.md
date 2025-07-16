@@ -28,22 +28,21 @@ I'm a passionate Front-End Developer who loves crafting engaging and accessible 
 - 🔷 **Interactive Dashboards** – Data-rich UIs with reusable components and charting libs  
 - 🔷 **AI-integrated Interfaces** – Prototypes powered by LLM APIs and chat UIs  
 
-👉 Check out my pinned repos below or visit [my portfolio site](https://your-portfolio-link.com) (if applicable)
+👉 Check out my pinned repos below
 
 ---
 
 ## 🌱 Currently Learning
 
 - Web animations (Framer Motion)
-- State machines (XState)
 - Performance & accessibility best practices
 
 ---
 
 ## 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shirong-tang/)
+- 🌐 [Portfolio](https://shirong.site) (currently under building)
 - 📫 Feel free to reach out via issues, DMs, or collaborations!
 
 ---
