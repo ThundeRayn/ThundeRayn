@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shirong Tang
-
-I'm a passionate Front-End Developer who loves crafting engaging and accessible web experiences. With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles, I enjoy turning complex problems into elegant, user-friendly interfaces.
+---
+## About me
+a passionate Front-End Developer who loves crafting engaging and accessible web experiences. With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles, I enjoy turning complex problems into elegant, user-friendly interfaces.
 
 ---
 
