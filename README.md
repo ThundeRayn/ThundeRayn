@@ -33,7 +33,7 @@
 - 🚀 Deploying to **Vercel** and **Render**
 
 ## 😄 Fun Fact
-I play DND
+> I play DND and I'm a Baldur's Gate fan!
 
 ## 🤝 Let’s Connect!
 
