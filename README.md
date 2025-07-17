@@ -22,10 +22,13 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 
-## 🌱 Currently Learning
+## 🔧 Building Toward Full Stack
 
-- Aiming on becoming a full stack developer
-- Performance & accessibility best practices
+- 🧠 Learning full stack with **Express.js**
+- 🗃️ Using **PostgreSQL** for backend data storage
+- 🔐 Implemented **Auth.js** for secure login flows
+- 🧪 Adding unit & integration tests with **Jest** and **Playwright**
+- 🚀 Deploying to **Vercel** and **Render**
 
 
 ## 🤝 Let’s Connect!
