@@ -42,6 +42,7 @@ I play DND
 - 📫 Feel free to reach out via issues, DMs, or collaborations!
 
 ---
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThundeRayn&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
