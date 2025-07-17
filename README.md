@@ -39,6 +39,9 @@
 
 ---
 
-> “Code is not just what it does, but how it makes people feel.” – Me, probably
+> “Code is not just what it does, but how it makes people feel.”
+
+---
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Thunderayn)  
 
 
