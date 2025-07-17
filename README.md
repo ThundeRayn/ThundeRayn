@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shirong Tang
 
+> “Code is not just what it does, but how it makes people feel.”
+
 ## About me
 - passionate React Developer who loves crafting engaging and visually appealing web experiences.
 - With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles
@@ -36,10 +38,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/shirong-tang/)
 - 🌐 [Portfolio](https://shirong.site) (currently under building)
 - 📫 Feel free to reach out via issues, DMs, or collaborations!
-
----
-
-> “Code is not just what it does, but how it makes people feel.”
 
 ---
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Thunderayn)  
