@@ -3,7 +3,7 @@
 > “Code is not just what it does, but how it makes people feel.”
 
 ## About me
-- passionate React Developer who loves crafting engaging and visually appealing web experiences.
+- passionate React Developer who loves crafting engaging web experiences.
 - With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX
 - enjoy turning complex problems into clean, user-friendly interfaces.
 
