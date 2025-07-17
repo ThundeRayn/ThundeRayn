@@ -40,6 +40,8 @@
 - 📫 Feel free to reach out via issues, DMs, or collaborations!
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderayn)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Thunderayn)  
 
 
