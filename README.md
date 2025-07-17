@@ -26,11 +26,8 @@
 
 ## 🔧 Building Toward Full Stack
 
-- 🧠 Learning full stack with **Express.js**
-- 🗃️ Using **PostgreSQL** for backend data storage
-- 🔐 Implemented **Auth.js** for secure login flows
-- 🧪 Adding unit & integration tests with **Jest** and **Playwright**
-- 🚀 Deploying to **Vercel** and **Render**
+- 🧠 Enhancing full stack with **Express.js**
+- 🚀 Understanding of the SDLC
 
 ## 😄 Fun Fact
 > I play DND and I'm a Baldur's Gate fan!
