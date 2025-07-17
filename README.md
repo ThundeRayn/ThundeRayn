@@ -32,6 +32,8 @@
 - 🧪 Adding unit & integration tests with **Jest** and **Playwright**
 - 🚀 Deploying to **Vercel** and **Render**
 
+## Fun Fact
+I play DND
 
 ## 🤝 Let’s Connect!
 
