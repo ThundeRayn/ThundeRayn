@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shirong Tang
----
+
 ## About me
 - passionate React Developer who loves crafting engaging and visually appealing web experiences.
 - With a strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX design principles
@@ -23,24 +23,12 @@
 - **Others:**  
   Performance optimization, accessibility (a11y), responsive design, component libraries, etc
 
----
-
-## 📁 Featured Projects
-
-- 🔷 **Modern Landing Pages** – Built fast, responsive one-pagers with React + Tailwind  
-- 🔷 **Interactive Dashboards** – Data-rich UIs with reusable components and charting libs  
-- 🔷 **AI-integrated Interfaces** – Prototypes powered by LLM APIs and chat UIs  
-
-👉 Check out my pinned repos below
-
----
 
 ## 🌱 Currently Learning
 
 - Aiming on becoming a full stack developer
 - Performance & accessibility best practices
 
----
 
 ## 🤝 Let’s Connect!
 
