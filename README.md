@@ -11,7 +11,7 @@
 
 ## 🛠️ Favorite Stack
 
-- **Frontend:**  
+- **Web Dev:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)  
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)  
@@ -24,10 +24,10 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 
-## 🔧 Building Toward Full Stack
+## 🔧 Building Toward AI
 
-- 🧠 Enhancing full stack with **Express.js**
-- 🚀 Understanding of the SDLC
+- 🧠 Integrating **AI-powered services** 
+- 🚀 Aiming at **chatbots**, **recommendation engines**, and **natural language interfaces**
 
 ## 😄 Fun Fact
 > I play DND and I'm a Baldur's Gate fan!
