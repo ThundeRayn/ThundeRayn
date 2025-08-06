@@ -30,7 +30,7 @@
 - 🚀 Aiming at **chatbots**, **recommendation engines**, and **natural language interfaces**
 
 ## 😄 Fun Fact
-> I play DND and I'm a Baldur's Gate fan!
+> I play DND and I build DND customize dice extension/draws!
 
 ## 🤝 Let’s Connect!
 
