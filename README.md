@@ -17,7 +17,6 @@
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)  
   ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square)  
-  ![WebGL](https://img.shields.io/badge/-WebGL-553A99?logo=webgl&logoColor=white&style=flat-square)  
 
 - **Backend & Databases:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
