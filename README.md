@@ -26,7 +26,7 @@
 
 ## 🔧 Building Toward AI
 
-- 🧠 Integrating **AI-powered services** 
+- 🧠 Integrating **AI-powered services**  
 - 🚀 Aiming at **chatbots**, **recommendation engines**, and **natural language interfaces**
 
 ## 😄 Fun Fact
