@@ -7,7 +7,7 @@
 - Strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX
 - enjoy turning complex problems into clean, user-friendly interfaces.
 - apply SEO/GEO best practice
-
+ 
 ---
 
 ## 🛠️ Favorite Stack
