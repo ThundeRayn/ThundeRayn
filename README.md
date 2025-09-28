@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shirong
 
-> “ Code is not just what it does, but how it makes people feel. ” 
+> “ Code is not just what it does, but how it makes people feel. ”
 
 ## About me
 - passionate React Developer who loves crafting engaging web experiences.
