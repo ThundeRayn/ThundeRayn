@@ -35,7 +35,7 @@
 ## 🔧 Building Toward AI
 
 - 🧠 Integrating **AI-powered services**  
-- 🚀 Interested in buliding **chatbots** that applied to daily use case
+- 🚀 Engaging in buliding **chatbots** or **AI Native App** that applied to daily use case
 
 ## 😄 Fun Fact
 > I play DND and I build DND customize dice extension/draws
