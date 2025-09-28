@@ -38,6 +38,7 @@
 
 ## 😄 Fun Fact
 > I play DND and I build DND customize dice extension/draws
+> 
 > I'm currently bulding toward COC beginner launching AI
 
 > I love game jam and hackathons!
