@@ -37,9 +37,7 @@
 - 🚀 Engaging in buliding **chatbots** or **AI Native App** that applied to daily use case
 
 ## 😄 Fun Fact
-> I play DND and I build DND customize dice extension/draws
-> 
-> I'm currently bulding toward COC beginner launching AI
+> I play DND and I build DND customize dice extension/draws, and I'm currently bulding toward COC beginner launching AI, inspired during the AI THINKERER HACKATHON 2025
 
 > I love game jam and hackathons!
 
