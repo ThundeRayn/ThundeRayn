@@ -41,7 +41,7 @@
 > 
 > Currently bulding toward COC beginner launching AI, inspired during the AI THINKERER HACKATHON 2025
 
-> I love game jam and hackathons!
+> Looking for game jam team mates!
 
 ## 🤝 Let’s Connect!
 
