@@ -4,8 +4,8 @@
 
 ## About me
 - Passionate React Developer who loves crafting engaging web experiences.
-- Strong focus on **React**, modern CSS (Tailwind, SCSS), and UI/UX
-- enjoy turning complex problems into clean, user-friendly solutions.
+- Strong focus on **React** and **NodeJS**, modern CSS (Tailwind, SCSS), and UI/UX
+- Enjoy turning complex problems into clean, user-friendly solutions.
  
 ---
 
