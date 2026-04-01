@@ -6,7 +6,7 @@
 - Passionate Full Stack AI Developer who loves crafting engaging web experiences.
 - Strong focus on **React** and **NodeJS**, modern CSS (Tailwind, SCSS), and UI/UX
 - Proficient in using AI as a development assistant to speed up workflows and enhance productivity
-- Enjoy turning complex problems into clean, user-friendly solutions
+- Enjoy turning complex problems into clean, user-friendly solutions 
  
 ---
 
